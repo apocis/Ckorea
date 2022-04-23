@@ -3,5 +3,5 @@
 
 void main(){															// main : 시작위치  
 	printf("안녕하세요~C언어");
-	///!!
+	printf("Hello CWorld");
 }																			// 중괄호 : 범위

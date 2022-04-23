@@ -6,6 +6,8 @@ void main() {
 	// 나이도 변수로
 	
 	// printf 자기소개
-	
+		char name[256] = "이재현";
+		int age = 25;
 
+		printf("이름 : %s \n나이 : %d", name, age);
 }

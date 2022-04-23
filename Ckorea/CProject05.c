@@ -29,5 +29,6 @@ void main() {
 	printf("%c\n", c);
 	printf("%s\n", d);
 
+	//√÷¡æ
 	printf("%d, %f, %c, %s", a, b, c, d);
 }

@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void main() {
+void main5() {
 	//정수 선언	
 	//실수 선언
 	//문자 선언					(한글자)

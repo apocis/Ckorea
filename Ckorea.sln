@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CAssign", "CAssign\CAssign.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CDialog1", "CDialog1\CDialog1.vcxproj", "{3381D4F0-8D7A-4DC8-A238-D2173450D02E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CKorea1", "CKorea1\CKorea1.vcxproj", "{11318C01-CA0E-474F-A79D-061512D74EDC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{3381D4F0-8D7A-4DC8-A238-D2173450D02E}.Release|x64.Build.0 = Release|x64
 		{3381D4F0-8D7A-4DC8-A238-D2173450D02E}.Release|x86.ActiveCfg = Release|Win32
 		{3381D4F0-8D7A-4DC8-A238-D2173450D02E}.Release|x86.Build.0 = Release|Win32
+		{11318C01-CA0E-474F-A79D-061512D74EDC}.Debug|x64.ActiveCfg = Debug|x64
+		{11318C01-CA0E-474F-A79D-061512D74EDC}.Debug|x64.Build.0 = Debug|x64
+		{11318C01-CA0E-474F-A79D-061512D74EDC}.Debug|x86.ActiveCfg = Debug|Win32
+		{11318C01-CA0E-474F-A79D-061512D74EDC}.Debug|x86.Build.0 = Debug|Win32
+		{11318C01-CA0E-474F-A79D-061512D74EDC}.Release|x64.ActiveCfg = Release|x64
+		{11318C01-CA0E-474F-A79D-061512D74EDC}.Release|x64.Build.0 = Release|x64
+		{11318C01-CA0E-474F-A79D-061512D74EDC}.Release|x86.ActiveCfg = Release|Win32
+		{11318C01-CA0E-474F-A79D-061512D74EDC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

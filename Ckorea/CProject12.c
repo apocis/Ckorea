@@ -31,7 +31,7 @@ void main() {
 	scanf_s("%d", & age);
 	(age > 19) ? printf("당신의 나이는 %d이며, 요금은 1250원입니다.", age) : printf("당신의 나이는 %d이며, 요금은 800원입니다.", age);
 	*/
-
+	//
 	int age;
 	int zl;
 	printf("나이를 입력하세요 : ");

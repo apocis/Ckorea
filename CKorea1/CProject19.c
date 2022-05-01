@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void main() {
+void main19() {
 	// Á¶°Ç¹® if ~ else if ~ else
 	int age = 20;
 	if (age > 19) {

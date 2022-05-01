@@ -13,23 +13,22 @@
 #define IDC_CALCULATOR                  109
 #define IDR_MAINFRAME                   128
 #define IDD_DIALOG1                     129
-#define IDC_NUM02                       1000
+#define IDC_NUM2							1000
 #define IDC_NUM0                        1002
-#define IDC_NUM01                       1003
-#define IDC_NUM03                       1004
-#define IDC_NUM04                       1005
+#define IDC_NUM1                        1003
+#define IDC_NUM3                        1004
+#define IDC_NUM4                        1005
 #define IDC_NUM5                        1006
 #define IDC_NUM6                        1007
 #define IDC_NUM7                        1008
 #define IDC_NUM8                        1009
 #define IDC_NUM9                        1010
-#define IDC_C                           1011
-#define IDC_CAL                         1011
-#define IDC_PLUS                        1012
-#define IDC_M                           1013
-#define IDC_MUL                         1014
-#define IDC_DIV                         1015
-#define IDC_SHOW                        1016
+#define IDC_CAL							1011
+#define IDC_PLUS							1012
+#define IDC_M								1013
+#define IDC_MUL							1014
+#define IDC_DIV							1015
+#define IDC_SHOW						1016
 #define IDC_STATIC                      -1
 
 // Next default values for new objects

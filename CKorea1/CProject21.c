@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void main() {
+void main21() {
 	//int pass;
 	//
 	//printf("비밀번호를 입력하세요\n");
